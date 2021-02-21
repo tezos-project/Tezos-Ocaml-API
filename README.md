@@ -1,4 +1,4 @@
-# Tezos-typed-API
+# Tezos API
 
 This OCaml API provides functions to interact with a Tezos node. It uses the Tezos libraries released on ```opam``` and
 wraps them inside a more simplified and easy-to-use interface. The API heavily utilizes the tezos-client library with
